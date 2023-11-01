@@ -1,4 +1,4 @@
-copy filesToCache = [
+const filesToCache = [
 	"VirtualXP.htm",
 	"VirtualXP.iso",
 	"VirtualXP.js",
