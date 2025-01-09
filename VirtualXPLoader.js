@@ -200,7 +200,7 @@
         config.push("[boot]");
 
         var bootOrder = this.getParameterByName("boot") || "hcf";
-        config.push("a=" + bootOrder[0] + "d");
+        config.push("a=" + bootOrder[0] + "b");
         config.push("b=" + bootOrder[1] + "d");
         config.push("c=" + bootOrder[2] + "d");
 
